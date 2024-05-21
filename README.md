@@ -10,6 +10,11 @@
     <img src="https://github.com/mithungithub07/WeatherApp/blob/master/Screenshot_15.png" align="center">
 </p>
 
+<p align="center">
+    <img src="" align="center">
+</p>
+
+
 <h2>Technologies Used</h2>
 <p>
     The Weather App utilizes the following technologies and libraries:
