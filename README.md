@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img src="" align="center">
+    <img src="https://github.com/mithungithub07/WeatherApp/blob/master/src/Screenshot%202024-04-20%20180340.png" align="center">
 </p>
 
 
